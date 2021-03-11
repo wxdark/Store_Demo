@@ -1,0 +1,51 @@
+{
+  "login1":
+  {"username": "13657495732",
+    "password": "123456",
+    "verify_code": "8888",
+    "result": ""
+  },
+  "login2": {
+    "username": "",
+    "password": "123456",
+    "verify_code": "8888",
+    "result": "用户名不能为空!"
+  },
+    "login3": {
+    "username": "13657495732",
+    "password": "",
+    "verify_code": "8888",
+    "result": "密码不能为空!"
+  },
+    "login4": {
+    "username": "13657495732",
+    "password": "123456",
+    "verify_code": "",
+    "result": "验证码不能为空!"
+  },
+    "login5": {
+    "username": "13655569669",
+    "password": "123456",
+    "verify_code": "8888",
+    "result": "账号不存在!"
+  },
+    "login6": {
+    "username": "1365569669",
+    "password": "123456",
+    "verify_code": "8888",
+    "result": "账号格式不匹配!"
+  },
+    "login7": {
+    "username": "13657495732",
+    "password": "123456",
+    "verify_code": "9998",
+    "result": "验证码错误"
+  },
+    "login8": {
+    "username": "13657495732",
+    "password": "1234567",
+    "verify_code": "8888",
+    "result": "密码错误!"
+  }
+}
+

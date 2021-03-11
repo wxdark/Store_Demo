@@ -1,0 +1,7 @@
+.idea
+Scripts
+pip-selfcheck.json
+lib
+report
+__pycache__
+pyvenv.cfg
